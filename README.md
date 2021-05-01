@@ -22,19 +22,19 @@ The major challenges we faced was:
 Our app is a community help app where in case you have any issue you put a request and someone from the community can assist you. After logging in and authenticating yourself using our aadhar card verification you are directed to a page where you can join a community using a code. After joining a community you can then proceed to either view requests already made by your fellow members or make a request of your own. There are 4 broad categories of a request that are sorted on the basis of priority ie Medical Emergency, Safety and Security, Daily Essentials and Let's Connect. For every person you help, you get points added to your profile over and above which you also have a community leaderboard to see who the best samaritan is. Now in case you want to assist someone, click on the given request card and then you get the further details along with that individual's contact details. Click on accept and you are good to go. Requesting for help is equally simple, all you have to do is click the plus icon and it opens up a page where you can fill the request type and add further details and then you are good to go.
 
 <p align="center">
-  <img src="https://github.com/PotatoinPyjamas/Lend-A-Hand/blob/main/img/1.PNG">
+  <img src="">
 </p>
 
 <p align="center">
-  <img src="https://github.com/PotatoinPyjamas/Lend-A-Hand/blob/main/img/2.PNG">
+  <img src="">
 </p>
 
 <p align="center">
-  <img src="https://github.com/PotatoinPyjamas/Lend-A-Hand/blob/main/img/3.PNG">
+  <img src="">
 </p>
 
 <p align="center">
-  <img src="https://github.com/PotatoinPyjamas/Lend-A-Hand/blob/main/img/4.PNG">
+  <img src="">
 </p>
 
 # Tech Stack
