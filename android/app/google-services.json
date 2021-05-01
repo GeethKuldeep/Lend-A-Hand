@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "634223943505",
+    "project_id": "hackverse-4f8bf",
+    "storage_bucket": "hackverse-4f8bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634223943505:android:4dba022f85080558223d70",
+        "android_client_info": {
+          "package_name": "com.example.hackverse_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634223943505-42gc3jgo71on3hrq3i4og88osm0iboej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChOr2quJ_TE8kC1vV4D4m-vT5gLLTOivY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634223943505-42gc3jgo71on3hrq3i4og88osm0iboej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634223943505:android:8652aeec59397101223d70",
+        "android_client_info": {
+          "package_name": "com.example.lendahand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634223943505-42gc3jgo71on3hrq3i4og88osm0iboej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChOr2quJ_TE8kC1vV4D4m-vT5gLLTOivY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634223943505-42gc3jgo71on3hrq3i4og88osm0iboej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
